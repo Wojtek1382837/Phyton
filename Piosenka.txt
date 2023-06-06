@@ -1,13 +1,13 @@
 "Zwrotka1"
 
-"Refren1"
+"Nowy plik z refrenem"
 
 "Zwrotka2"
 
-"Refren2"
+"Nowy plik z refrenem"
 
 "Zwrotka3"
 
 "Zwrotka4"
 
-"Refren3"
+"Nowy plik z refrenem"
