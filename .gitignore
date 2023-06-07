@@ -1,0 +1,7 @@
+# katalogi
+/venv/
+/.idea/
+
+# Pliki z danymi
+*csv
+* xlsx
